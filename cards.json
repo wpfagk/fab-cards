@@ -1,16 +1,115 @@
-[
-  {
-    "name": "Ravenous Rabble",
-    "type": "Attack Action",
-    "cost": 0,
-    "imageUrl": "https://prod-content.fabrary.io/cards/AAZ012.webp",
-    "extensionUrl": "https://example.com/extension"
-  },
-  {
-    "name": "Sink Below",
-    "type": "Defense Reaction",
-    "cost": 0,
-    "imageUrl": "https://prod-content.fabrary.io/cards/ASB016.webp",
-    "extensionUrl": "https://example.com/extension"
-  }
-]
+        {
+          'name': 'Ravenous Rabble',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/AAZ012.webp',
+        },
+        {
+          'name': 'Sink Below',
+          'type': 'Defense Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/ASB016.webp',
+        },
+        {
+          'name': 'Snatch',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/AST014.webp',
+        },
+        {
+          'name': 'Savor Bloodshed',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT198.webp',
+        },
+        {
+          'name': 'Oath of Loyalty',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT149.webp',
+        },
+        {
+          'name': 'Dual Threat',
+          'type': 'Generic Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT223.webp',
+        },
+        {
+          'name': 'Loyalty Beyond the Grave',
+          'type': 'Defense Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT150.webp',
+        },
+        {
+          'name': 'Pain in the Backside',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT174.webp',
+        },
+        {
+          'name': 'Shelter from the Storm',
+          'type': 'Defense Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT222.webp',
+        },
+        {
+          'name': 'Chain Reaction',
+          'type': 'Defense Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT253.webp',
+        },
+        {
+          'name': 'Jagged Edge',
+          'type': 'Attack Action',
+          'cost': 1,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT116.webp',
+        },
+        {
+          'name': 'Throw Dagger',
+          'type': 'Attack Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT175.webp',
+        },
+        {
+          'name': 'Cull',
+          'type': 'Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT259.webp',
+        },
+        {
+          'name': 'Perforate',
+          'type': 'Attack Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/HNT197.webp',
+        },
+        {
+          'name': 'Enlightened Strike',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/WTR159.webp',
+        },
+        {
+          'name': 'Red in the Ledger',
+          'type': 'Attack Action',
+          'cost': 1,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/AAZ013.webp',
+        },
+        {
+          'name': 'Scar for a Scar',
+          'type': 'Attack Action',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/KAT015.webp',
+        },
+        {
+          'name': 'Fate Foreseen',
+          'type': 'Defense Reaction',
+          'cost': 0,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/ARC200.webp',
+        },
+        {
+          'name': 'Unmovable',
+          'type': 'Defense Reaction',
+          'cost': 3,
+          'imageUrl': 'https://prod-content.fabrary.io/cards/WTR212.webp',
+        },
+      ];
