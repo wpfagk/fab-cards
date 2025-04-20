@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ravenous Rabble",
+    "type": "Attack Action",
+    "cost": 0,
+    "imageUrl": "https://prod-content.fabrary.io/cards/AAZ012.webp",
+    "extensionUrl": "https://example.com/extension"
+  },
+  {
+    "name": "Sink Below",
+    "type": "Defense Reaction",
+    "cost": 0,
+    "imageUrl": "https://prod-content.fabrary.io/cards/ASB016.webp",
+    "extensionUrl": "https://example.com/extension"
+  }
+]
