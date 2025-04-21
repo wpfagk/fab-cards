@@ -1,0 +1,79 @@
+//datafab.json
+//FABRARY
+
+//type Attack Action 
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+//type Attack Reaction
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+
+//type Defense Action
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+
+//type Defense Reaction
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+
+//type Defense Trap
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+
+//type Hero
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+
+//type Equipment
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
+
+//type Weapon
+
+{
+    "name": "",
+    "type": "",
+    "cost": ,
+    "imageUrl": ""
+  },
