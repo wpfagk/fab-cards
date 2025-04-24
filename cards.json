@@ -24,6 +24,12 @@
     "imageUrl": "https://prod-content.fabrary.io/cards/HNT198.webp"
   },
   {
+  "name": "Zealous Belting",
+  "type": "Generic Action - Attack",
+  "cost": 2,
+  "imageUrl": "https://prod-content.fabrary.io/cards/MON293.webp"
+  },
+  {
     "name": "Oath of Loyalty",
     "type": "Attack Action",
     "cost": 0,
